@@ -11,6 +11,7 @@ Selamat datang! Repository ini berisi dasar-dasar bahasa pemrograman Go (Golang)
 5. **Variabel**
 6. **Constant**
 7. **Konversi Tipe Data**
+8. **Type Declaration**
 
 ## Sumber Daya Eksternal
 
