@@ -22,4 +22,10 @@ func main() {
 	fmt.Println(a) // a = a / 10
 	a %= 10
 	fmt.Println(a) // a = a % 10
+
+	// unary operator
+	a++
+	fmt.Println(a) // a = a + 1
+	a--
+	fmt.Println(a) // a = a - 1
 }
