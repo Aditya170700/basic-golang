@@ -9,6 +9,7 @@ Selamat datang! Repository ini berisi dasar-dasar bahasa pemrograman Go (Golang)
 3. **Boolean**
 4. **String**
 5. **Variabel**
+6. **Constant**
 
 ## Sumber Daya Eksternal
 
