@@ -14,6 +14,7 @@ Selamat datang! Repository ini berisi dasar-dasar bahasa pemrograman Go (Golang)
 8. **Type Declaration**
 9. **Operasi Matematika**
 10. **Operasi Perbandingan**
+11. **Operasi Boolean**
 
 ## Sumber Daya Eksternal
 
