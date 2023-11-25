@@ -26,6 +26,7 @@ Selamat datang! Repository ini berisi dasar-dasar bahasa pemrograman Go (Golang)
 20. **Function Parameter**
 21. **Function Return**
 22. **Function Return Multiple Values**
+23. **Function Named Return Values**
 
 ## Sumber Daya Eksternal
 
