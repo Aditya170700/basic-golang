@@ -1,8 +1,8 @@
 # Belajar Dasar-Dasar Bahasa Go (Golang)
 
-Selamat datang! Repository ini berisi dasar-dasar bahasa pemrograman Go (Golang). Repository ini dibuat untuk dokumentasi pembelajaran saya yang memulai perjalanan dalam mempelajari bahasa Go.
+Selamat datang! Repository ini berisi dasar-dasar bahasa pemrograman Go (Golang). Repository ini dibuat untuk dokumentasi pembelajaran saya yang memulai perjalanan dalam mempelajari bahasa Go (Golang).
 
-## Daftar Isi
+## Apa yang dipelajari?
 
 1. **Hello World dan Struktur Dasar Program**
 2. **Number**
@@ -16,6 +16,7 @@ Selamat datang! Repository ini berisi dasar-dasar bahasa pemrograman Go (Golang)
 10. **Operasi Perbandingan**
 11. **Operasi Boolean**
 12. **Array**
+13. **Slice**
 
 ## Sumber Daya Eksternal
 
