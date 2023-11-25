@@ -24,6 +24,7 @@ Selamat datang! Repository ini berisi dasar-dasar bahasa pemrograman Go (Golang)
 18. **Break & Continue**
 19. **Function**
 20. **Function Parameter**
+21. **Function Return**
 
 ## Sumber Daya Eksternal
 
