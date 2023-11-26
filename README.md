@@ -38,6 +38,7 @@ Selamat datang! Repository ini berisi dasar-dasar bahasa pemrograman Go (Golang)
 32. **Struct Method**
 33. **Interface**
 34. **Interface Kosong**
+35. **Nil**
 
 ## Sumber Daya Eksternal
 
