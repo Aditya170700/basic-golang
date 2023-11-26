@@ -36,6 +36,7 @@ Selamat datang! Repository ini berisi dasar-dasar bahasa pemrograman Go (Golang)
 30. **Defer, Panic & Recover**
 31. **Struct**
 32. **Struct Method**
+33. **Interface**
 
 ## Sumber Daya Eksternal
 
