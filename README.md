@@ -42,6 +42,7 @@ Selamat datang! Repository ini berisi dasar-dasar bahasa pemrograman Go (Golang)
 36. **Type Assertions**
 37. **Pointer**
 38. **Asterisk Operator**
+39. **Operator New**
 
 ## Sumber Daya Eksternal
 
