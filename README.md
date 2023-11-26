@@ -33,6 +33,7 @@ Selamat datang! Repository ini berisi dasar-dasar bahasa pemrograman Go (Golang)
 27. **Anonymous Function**
 28. **Recursive Function**
 29. **Closure**
+30. **Defer, Panic & Recover**
 
 ## Sumber Daya Eksternal
 
