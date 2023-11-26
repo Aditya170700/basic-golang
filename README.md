@@ -32,6 +32,7 @@ Selamat datang! Repository ini berisi dasar-dasar bahasa pemrograman Go (Golang)
 26. **Function As Parameter**
 27. **Anonymous Function**
 28. **Recursive Function**
+29. **Closure**
 
 ## Sumber Daya Eksternal
 
