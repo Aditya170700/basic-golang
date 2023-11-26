@@ -47,6 +47,7 @@ Selamat datang! Repository ini berisi dasar-dasar bahasa pemrograman Go (Golang)
 41. **Pointer in Method**
 42. **Package & Import**
 43. **Package Initialization**
+44. **Error**
 
 ## Sumber Daya Eksternal
 
