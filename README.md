@@ -30,6 +30,7 @@ Selamat datang! Repository ini berisi dasar-dasar bahasa pemrograman Go (Golang)
 24. **Variadic Function**
 25. **Function Value**
 26. **Function As Parameter**
+27. **Anonymous Function**
 
 ## Sumber Daya Eksternal
 
