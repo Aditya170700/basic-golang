@@ -45,6 +45,7 @@ Selamat datang! Repository ini berisi dasar-dasar bahasa pemrograman Go (Golang)
 39. **Operator New**
 40. **Pointer in Function**
 41. **Pointer in Method**
+42. **Package & Import**
 
 ## Sumber Daya Eksternal
 
